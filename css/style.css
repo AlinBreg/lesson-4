@@ -16,7 +16,7 @@ h2{
 	border:5px solid #4AC20E;
 	border-radius:10px;
 	margin:18.1px 39px 10px 24px;
-	padding:8px 961px 8px 28px;
+	padding:8px 0 8px 28px;
 }
 .img-1{
 	margin-left:30px;
@@ -35,6 +35,21 @@ p{
 	font-size:22px;
 	color:#3D58A6;
 	margin-left:30px;
-	margin-bottom:102px;
 	border-bottom:10px solid #3D58A6;
+	border-bottom-width: 5px;
+}
+footer{
+	margin-top:102px;
+	border-top:1px solid #707070;
+}
+.phone-number, .mail{
+	font-size:25px;
+	color:#3D58A6;
+	font-weight: bold;
+}
+.mail{
+	margin-left:30px;
+}
+.phone-number{
+	margin-left:520.5px;
 }
